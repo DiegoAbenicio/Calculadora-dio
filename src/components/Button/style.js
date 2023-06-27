@@ -1,15 +1,15 @@
 import styled from "styled-components";
 
 export const ButtonContainer = styled.button`
-    padding: 20PX;
-    border: 1px solid #0DCD;
-    background-color: #00AAF0;
-    color: #FFFF;
-    font-size: 24px;
-    font-weight: 700;
-    flex: 1;
+  padding: 20px;
+  border: 1px solid #ac1b65;
+  background-color: #c21b65;
+  color: #fff4f1;
+  font-size: 24px;
+  font-weight: 700;
+  flex: 1;
 
-    &:hover{
-        opacity: 0.6;
-    }
-`
+  &:hover {
+    opacity: 0.6;
+  }
+`;
